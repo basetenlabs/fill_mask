@@ -16,3 +16,4 @@ resources:
   use_gpu: false
 secrets: {}
 system_packages: []
+spec_version: 2.0
